@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Katie, a Customer Success Manager in the UK. I'm interested in developer productivity, intelligent software engineering and getting more women into Technology. 
+
+
 <!--
 **KBilsborough/KBilsborough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
